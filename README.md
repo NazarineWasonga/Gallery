@@ -63,3 +63,13 @@ Admin should:
 * To run the application, in your terminal:
 
         $ python3 manage.py runserver
+
+## Testing the Application
+* To run the tests for the class files:
+
+        $ python3 manage.py test images
+
+## Technologies Used
+* Python3
+* Django and postgresql
+
