@@ -31,12 +31,12 @@ Admin should:
 | Display single images on click | **On  click** | All details should be viewed|
 | To add an image  | **Through Admin dashboard** | Add and add categories and tag location of Image|
 | To edit image  | **Through Admin dashboard** | Redirected to the  image form details and editing happens|
-| To delete an image  | **Through Admin dashboard** | click on image object and confirm by delete button|
+| To delete an image  | **Through Admin dashboard** | click on image object and confirm bhttps://me-gallery.herokuapp.com/y delete button|
 | To search  | **Enter text in search bar** | Users can search by category|
 | To filter by Location  | **Click drop-down on navbar** | Users can view images by Location|
 
 ## Application link
-click [here]()
+click [here](https://me-gallery.herokuapp.com/)
 
 
 ## SetUp / Installation Requirements
