@@ -35,6 +35,9 @@ Admin should:
 | To search  | **Enter text in search bar** | Users can search by category|
 | To filter by Location  | **Click drop-down on navbar** | Users can view images by Location|
 
+## Application link
+click [here]()
+
 
 ## SetUp / Installation Requirements
 ### Prerequisites
